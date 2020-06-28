@@ -1,0 +1,36 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "image",
+        "key": "lelaki-putih",
+        "url": "./assets/images/putih-frame-0.png"
+      },
+      {
+        "type": "image",
+        "key": "gadis-ungu",
+        "url": "./assets/images/gadis-ungu-frame-0.png"
+      },
+      {
+        "type": "image",
+        "key": "lelaki-ungu",
+        "url": "./assets/images/ungu-frame-0.png"
+      },
+      {
+        "type": "image",
+        "key": "latarkedai",
+        "url": "./assets/images/kedai-latar.png"
+      },
+      {
+        "type": "image",
+        "key": "punat-jalan",
+        "url": "./assets/images/punat-jalan.png"
+      },
+      {
+        "type": "image",
+        "key": "punat-balik",
+        "url": "./assets/images/punat-balik.png"
+      }
+    ]
+  }
+}
